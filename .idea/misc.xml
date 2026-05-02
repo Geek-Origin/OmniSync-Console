@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/OmniSync-Console/pom.xml" />
+        <option value="$PROJECT_DIR$/OmniSync-Engine-feature-OMNI-1-init/pom.xml" />
       </list>
     </option>
   </component>
